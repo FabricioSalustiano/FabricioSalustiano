@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabricio Salustiano
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning SpringBoot
 - 🤓 I’m currently working on building my portfolio
 - 😁 Pronouns: he/him
 
