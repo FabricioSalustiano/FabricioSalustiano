@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Desenvolvedor de software apaixonado por criar soluções <b>criativas</b>, <b>funcionais</b> e <b>inspiradoras</b>.<br>
-  Atualmente explorando os universos de <b>DevOps</b> 🌐, <b>Computação em Nuvem</b> ☁️ e <b>Arquitetura de Software</b> 🏗️.
+  Atualmente estudando e trabalhando com <b>Agentes de IA</b> 🤖, além de explorar os universos de <b>DevOps</b> 🌐, <b>Computação em Nuvem</b> ☁️ e <b>Arquitetura de Software</b> 🏗️.
 </p>
 
 ---
@@ -10,8 +10,8 @@
 ## 🎨 Sobre mim
 
 - 🧠 Sempre aprendendo e experimentando novas ideias
-- 🌱 Foco atual: **DevOps**, **Cloud Computing** e **Arquitetura de Software**
-- 🎯 Objetivo: unir **tecnologia** e **criatividade** para gerar impacto real
+- 🤖 Foco atual: **Agentes de IA**, **DevOps**, **Cloud Computing** e **Arquitetura de Software**
+- 🎯 Objetivo: unir **tecnologia**, **inteligência artificial** e **criatividade** para gerar impacto real
 - ✨ Estilo: técnico, mas com olhar artístico e inovador
 
 ---
@@ -35,8 +35,8 @@
 ---
 
 ## 🚀 O que estou construindo
-
 💡 Portfólio de projetos que misturam:
+- **Agentes de IA** aplicados a soluções inteligentes e automatizadas
 - **Desenvolvimento Back-end** com Java e Spring Boot  
 - **Front-end dinâmico** com Angular  
 - **Pipelines DevOps** com Docker, Kubernetes e CI/CD  
